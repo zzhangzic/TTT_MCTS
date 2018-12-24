@@ -1,0 +1,4 @@
+The time constraint is very similar to the number of nodes constraint
+When the time constraint is less than one, the win rate drops low, however, if it is higer than 1, the win rate starts the rise, just like the number of nodes.
+
+I think this version could produce a smaller tree than the vanilla version, since generating 1000 sample game requires much more time than one second. This comparision changes at various time limit, because more time allows the program generate a bigger tree size

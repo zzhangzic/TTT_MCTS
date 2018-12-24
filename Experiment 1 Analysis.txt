@@ -1,0 +1,2 @@
+From the graph I could see that the winrates is higher when there is over 100 nodes, because there are more steps that the bot could predict  the opponents' movement for higher number of nodes
+
